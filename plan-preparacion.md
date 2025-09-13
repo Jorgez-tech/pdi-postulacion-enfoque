@@ -204,7 +204,7 @@
 
 ### Red de Apoyo Activa
 
-- Identifica 3-5 personas que creen genuinamente en tu potencial
+- Identifica 3-5 personas que crean genuinamente en tu potencial
 - Programa conversaciones regulares con mentores o familiares de apoyo
 - Únete a grupos de aspirantes (online o presenciales) para apoyo mutuo
 
@@ -232,3 +232,7 @@
 4. Habla con tu red de apoyo
 5. Haz algo físico (caminar, ejercitarse) para cambiar el estado mental
 6. Vuelve a tu rutina de preparación con pequeños pasos
+
+---
+
+[Siguiente sección: Carta de un padre](carta-padre.md)

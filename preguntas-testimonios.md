@@ -29,3 +29,7 @@
 
 **¿Qué oportunidades de crecimiento o especialización hay dentro de la PDI?**
 > Muchas: guía canino, protección de personas, operador táctico, microtráfico cero, migraciones, manejo de evidencias.
+
+---
+
+[Siguiente sección: Plan de Preparación Física, Académica y Emocional](plan-preparacion.md)

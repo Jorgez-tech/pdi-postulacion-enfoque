@@ -22,3 +22,7 @@
 
 - Inscripción: $35.000
 - Matrícula: $1.500.000
+
+---
+
+[Siguiente sección: Preguntas Clave y Respuestas Testimoniales](preguntas-testimonios.md)
