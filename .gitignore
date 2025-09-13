@@ -1,0 +1,25 @@
+# Archivos y carpetas recomendados para ignorar en proyectos de documentación y markdown
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de sistema de Windows
+desktop.ini
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Carpetas de entorno virtual (Python, si se usa)
+venv/
+.env/
+
+# Archivos de respaldo
+*.bak
+
+# Otros
+node_modules/
